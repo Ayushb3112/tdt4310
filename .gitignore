@@ -1,0 +1,6 @@
+# Large training artifacts
+results/checkpoint-*/
+*.safetensors
+*.pt
+*.pth
+*.bin
