@@ -30,6 +30,8 @@ results/checkpoint-*/
 *.synctex.gz
 *.toc
 *.xdv
+*.tex
+*.pdf
 
 # Ignore LaTeX template directory
 tdt4310_latextemplate/
